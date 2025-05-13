@@ -59,8 +59,6 @@
 
 ### ⚓: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Utkarsh-ojha08&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ojha08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
